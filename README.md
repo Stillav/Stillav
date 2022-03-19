@@ -1,5 +1,17 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=JaehyeongKwon&fontSize=70&animation=twinkling)
 
+### Hi there<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
+<hr>
+
+- 💻I'm a Student Interested in MLOPS, Web and Cloud and Deep Learning.
+- 🌏 I am from South Korea and living in Daejeon.
+- 🔭 I’m currently studying at KASIT.
+- 🌱 I’m currently learning Django/ FastAPI. 
+- 🚀 I always take care not to stay in my comfort zone.
+- 😄 Fun facts: My BS&MS degree is Chemical & Biomolecular Engineering 😊
+
+<hr>
+
 <p align="center">🇰🇷</p>
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
@@ -46,7 +58,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...

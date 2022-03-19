@@ -29,7 +29,7 @@
 <h3 align="center"> 🧸 Me 🧸 </h3>
 <p align="center">
   
-  <a href="https://www.instagram.com/woo0_hooo/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/stillavv/"/></a>&nbsp
+  <a href="https://www.instagram.com/woo0_hooo/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/stillavv/"/></a>
   <a href="mailto:wogud9675@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=wogud9675@gmail.com"/></a>
 </p>
 <br>

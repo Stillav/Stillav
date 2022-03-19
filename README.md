@@ -25,13 +25,14 @@
 <h3 align="center"> 🔭 Me 🔭 </h3>
 <p align="center">
   <a href="https://www.instagram.com/stillavv/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/stillavv/" align="center"/></a>&nbsp
-  <a href="mailto:wogud9675@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=wogud9675@gmail.com" align="center"/></a>
+  <a href="mailto:wogud9675@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=wogud9675@gmail.com" align="center"/></a>&nbsp
+  <a href="https://www.linkedin.com/in/jaehyeong-kwon-0a739520b/"><img src="https://img.shields.io/badge/LinkedIn-00599C?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/jaehyeong-kwon-0a739520b" align="center"/></a>
 </p>
 <br>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwookyoungkim&count_bg=%23ED6DA3&title_bg=%2386757E&icon=github.svg&icon_color=%23E1DEDE&title=hits&edge_flat=false"/></a>
-</p>
+</p> -->
 
 <!--
 **Stillav/Stillav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

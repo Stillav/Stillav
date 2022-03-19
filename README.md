@@ -32,9 +32,7 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>&nbsp
 </p>
 
-<br>
 <hr>
-<br>
 <h3 align="center"> 🔭 Me 🔭 </h3>
 <p align="center">
   <a href="https://www.instagram.com/stillavv/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/stillavv/" align="center"/></a>&nbsp

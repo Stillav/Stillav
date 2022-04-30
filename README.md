@@ -38,7 +38,7 @@
   <a href="https://www.instagram.com/stillavv/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/stillavv/" align="center"/></a>&nbsp
   <a href="mailto:wogud9675@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=wogud9675@gmail.com" align="center"/></a>&nbsp
   <a href="https://www.linkedin.com/in/jaehyeong-kwon-0a739520b/"><img src="https://img.shields.io/badge/LinkedIn-00599C?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/jaehyeong-kwon-0a739520b" align="center"/></a>
-  <a href="https://velog.io/@wogud9675/"><img src="https://img.shields.io/badge/velog-00599C?style=flat-square&logo=velog&logoColor=white&link=https://velog.io/@wogud9675/" align="center"/></a>
+  <a href="https://velog.io/@wogud9675/"><img src="https://img.shields.io/badge/velog-11B48A?style=flat-square&logo=velog&logoColor=white&link=https://velog.io/@wogud9675/" align="center"/></a>
 </p>
 <br>
 

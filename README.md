@@ -3,13 +3,6 @@
 ### Hi there<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 <hr>
 
-- 💻I'm a Student Interested in Battery, Energy, MLOPS, Web,Cloud and Deep Learning.
-- 🌏 I am from South Korea and living in Daejeon.
-- 🔭 I’m currently studying at KAIST.
-- 🌱 I’m currently learning Django/ FastAPI/ Nestjs. 
-- 🚀 I always take care not to stay in my comfort zone.
-- 😄 Fun facts: My BS&MS degree is Chemical & Biomolecular Engineering 😊
-
 <hr>
 
 <p align="center">🇰🇷</p>
